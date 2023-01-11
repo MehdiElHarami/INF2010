@@ -1,0 +1,10 @@
+Correction TP 1
+
+| Conformité du code     	|   10/10    |
+| Désign du code            |   5/5     |
+| Implémentation du code    |   5/5     |
+| Total                     |   20/20    |
+
+Excellent TP! Juste un petit rappel, vous devez expliquer vos chiffres magiques. EX: dans LetterFactory, vous divisez un
+angle par 64. Pourquoi 64?
+
